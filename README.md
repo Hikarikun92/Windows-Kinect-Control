@@ -1,2 +1,2 @@
-kinect
+Windows Kinect Control
 ======
