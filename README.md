@@ -15,7 +15,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Windows Kinect Control
 ======
-This program implements a Microsoft Kinect For Windows application that can be used to control the mouse cursor based on the user's hands.
+This program implements a Microsoft Kinect For Windows application that can be used to control the mouse cursor based on the user's hands. It was developed as a final project for the course of Computer Engineering at University of São Paulo (USP), in São Carlos - SP, Brazil.
 
 It requires a Microsoft Kinect for Windows device (NOT the 2nd generation one) and its SDK version 1.7, available at <http://www.microsoft.com/en-us/download/details.aspx?id=36996>. It might also work with an Xbox 360 Kinect, but it was not tested.
 
