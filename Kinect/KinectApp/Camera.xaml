@@ -1,0 +1,31 @@
+﻿<!--
+    Copyright (C) 2014  Lucas José dos Santos Souza
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<Window x:Class="KinectApp.Camera"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Width="648.955" ResizeMode="NoResize" Closing="OnClosing"
+             Loaded="OnLoad" Activated="Window_Activated" Height="577.015"
+             WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight">
+    <Grid>
+        <Image Name="imgKinect" HorizontalAlignment="Left" Height="480" VerticalAlignment="Top" Width="640"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="60" Margin="0,480,0,0" VerticalAlignment="Top" Width="640">
+            <Button x:Name="bFechar" Content="Fechar" Width="146" Margin="246,9" FontSize="18" Click="Button_Click" IsDefault="True"/>
+        </Border>
+    </Grid>
+</Window>

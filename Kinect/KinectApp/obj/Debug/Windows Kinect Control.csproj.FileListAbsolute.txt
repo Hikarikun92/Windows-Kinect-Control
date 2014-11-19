@@ -1,0 +1,22 @@
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Windows Kinect Control.exe.config
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Windows Kinect Control.exe
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Windows Kinect Control.pdb
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Camera.baml
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Camera.g.cs
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control_MarkupCompile.cache
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control.g.resources
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\KinectApp.MainWindow.resources
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\KinectApp.Opcoes.resources
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\KinectApp.Properties.Resources.resources
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\KinectApp.Resource.resources
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control.csproj.GenerateResource.Cache
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control.exe
+C:\Users\Lucas\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control.pdb
+C:\Users\Lucas-PC\Dropbox\Kinect\Projeto\Kinect\KinectApp\bin\Debug\Windows Kinect Control.exe.config
+C:\Users\Lucas-PC\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control.exe
+C:\Users\Lucas-PC\Dropbox\Kinect\Projeto\Kinect\KinectApp\obj\Debug\Windows Kinect Control.pdb
