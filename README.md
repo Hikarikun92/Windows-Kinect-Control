@@ -28,3 +28,5 @@ Also, it checks for the "secondary hand's" (default left hand) position in a 3-d
 If the secondary hand is located over 20 cm above the secondary shoulder and 30 cm in front of it, the program sends an event indicating a mouse click with the right button. If the hand is located less than 20 cm above, less than 10 cm under the shoulder and 45 cm in front of it, the program sends a middle-button click. Otherwise, if the hand is located more than 10 cm under the shoulder and 45 cm in front of it, a left-button click is sent.
 
 The program also counts with an Options ("Opções") window, a Camera window showing what the sensor is "seeing" and a virtual keyboard (Free Virtual Keyboard <http://freevirtualkeyboard.com/>). Windows' default virtual keyboard, for some reason, does not work, making the Kinect streams stop and the program freeze. These features are all available through the notify icon's menu. The fourth option closes the program and releases its resources.
+
+Note: you must copy "FreeVK.exe" to the executable folders (bin/Debug and bin/Release), if they're not already there, in order for the virtual keyboard to work.
